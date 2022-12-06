@@ -1,0 +1,20 @@
+
+# /_data/authors.yml
+
+- peter:
+  name             : "Prof. Dr. Carina Peter"
+  avatar           : "/assets/images/instructors/carina.jpg"
+  email            : "carina.peter@uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik"
+
+- doerfel:
+  name             : "Leoni Dörfel"
+  avatar           : "/assets/images/instructors/leoni.jpg"
+  email            : "doerfell@uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik"
+  
+- bengel:
+  name             : "Phillip Bengel"
+  avatar           : "/assets/images/instructors/bengel.jpg"
+  email            : "bengel@uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik"
