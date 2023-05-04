@@ -1,5 +1,5 @@
-# moer-aslo
-Modul Außerschulische Lernort für Lehramt L3 und BSc Geographie
+# moer-forse
+Fortbidung zum Thema Außerschulische Lernorte mit mobilen digitalen Medien
 
 Die aktuelle HTML Version befindet sich hier:
-https://geomoer.github.io/moer-l3-aslo/
+https://geomoer.github.io/forse/
