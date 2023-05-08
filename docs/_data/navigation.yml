@@ -4,8 +4,7 @@ main:
     url: /units.html
   - title: "FAQ"
     url: /unit00/unit00-04_faq.html
-  - title: "ILIAS"
-    url: https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR
+
 
 
 
@@ -14,5 +13,3 @@ docs:
     children:
       - title: "Kurseinheiten"
         url: /units.html
-      - title: "ILIAS"
-        url: https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR
