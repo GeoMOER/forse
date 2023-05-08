@@ -15,12 +15,6 @@ Dazu erarbeiten Sie sich selbstständig die Inhalte dieser Einheit mithilfe der 
 
 <!--more-->
 
-## Was bisher geschah
-Sie konnten bereits Ihre persönlichen Vorstellungen zu außerschulischen Lernorten in einer ersten Recherche überprüfen 
-und mit denen Ihrer Kommilitonen abgleichen und diskutieren. Sie haben sich zu einer ersten Orientierung ein paar grundlegende
-Informationen zu Zielen und Rahmenbedingungen eines außerschulischen Lernorts erschlossen 
-und sind jetzt bereit einige zugrundeliegende Ansatze außerschulischer Lernkonzepte genauer kennenzulenen. 
-
 ## Lernziele
 
 Am Ende dieser Lerneinheit sollten Sie
