@@ -11,7 +11,7 @@ header:
   cta_url: "/units.html"
 excerpt: Außerschulische Lernorte und Bildung für nachhaltige Entwicklung im Geographieunterricht
 feature_row_intro:
-- excerpt: Einführungskurs im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie){:target="_blank"} an der Philipps Universität Marburg
+- excerpt: Ein Fortbildungskurs der [Arbeitsgruppe Geographiedidaktik](https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik){:target="_blank"} und des [Zentrums für Lehrkräftebildung](https://www.uni-marburg.de/de/zfl){:target="_blank"}  der Philipps-Universität Marburg, gefördert durch die Stiftung [Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/){:target="_blank"}
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
