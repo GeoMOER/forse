@@ -23,49 +23,28 @@ feature_row_ilos:
 
 
 ## Allgemeines 
-Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert.
-
+Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und unter Nutzung **mobiler digitaler Medien (mdM)** didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden so außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert.
 ## Lernziele
 Am Ende des Kurses sollen Sie in der Lage sein
-* ausgehend von einer fachlichen Problemstellung eine außerschulische Lernumgebung konzipieren zu können,
-* dafür fachspezifische Methoden so aufzubereiten, dass eine adressaten- und problemorientierte Lernsituation geschaffen wird, und
-* eine Lernumgebung am konkreten außerschulischen Standort aus fachlicher und fachdidaktischer Perspektive sowie im Hinblick auf Bildung für nachhaltige Entwicklung zu analysieren.
-
-
+* Argumente für und gegen den Einsatz mobiler digitaler Medien an außerschulischen Lernorten zu benennen und diese zu reflektieren
+* unterschiedliche Einsatzmöglichkeiten für mdM im (außerschulischen) Unterricht zu nennen und bezüglich ihrer spezifischen Anforderungen und Voraussetzungen zu unterscheiden
+* den Mehrwert von mdM in konkreten Anwendungssituationen zu identifizieren und diese sinnvoll zu gestalten,
+* konkrete digitale Hilfsmittel (Apps und Webanwendungen) auf Grundlage Ihrer Kenntnisse, passend für den entsprechenden Einsatz auszuwählen 
 
 ## Kursmerkmale
-Der Kurs ist primär für Studierende unserer Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
+Der Kurs ist als digitale Fortbildung mit einer begleitenden Onlineveranstaltung konzipiert, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Information aufgrund der **Coronavirus-Pandemie**: Dank jüngster Entwicklungen wird der Kurs ab sofort wieder in Präsenz stattfinden. Das gilt für Kurstermine ebenso wie für den Praxisteil am Ende des Semesters. Weiter Informationen finden Sie unter [How-to ASLO]({{ site.baseurl }}{% link _unit00/unit00-02_howto-learning.md %}) auf dieser Webseite oder im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2344330&client_id=UNIMR){:target="_blank"}.
+Irgendeine ganz besonders wichtige Information 
 {: .notice--info}
 
-
-## Gruppenarbeit und Gruppenbildung
-Sie werden dieses Modul in kleingruppen durchlaufen. 
-
-* Die Gruppenzuordnung werden wir in der ersten Sitzung vornehmen.
-* Die Gruppe arbeitet das gesamte Modul zusammen. 
-* Sie treffen sich regelmäßig in Präsenz oder in Videokonferenzen (BigBlueButton) und bearbeiten Sie gemeinsam die Übungen. 
-* Für jede Gruppe steht ein eigener Videokonferenzraum im geschlossenen [Kursbereich der ILIAS-Lernplattform](https://ilias.uni-marburg.de/goto.php?target=crs_2862848&client_id=UNIMR){:target="_blank"} zur Verfügung.
-
-
+## Ergänzungskurs
+Zur Ergänzung ist ein praxisorienter Präsenztermin im Juli 2023 geplant, der dazu dienen soll konkrete Fallbeispiele zu erproben, bewerten und diskutieren.
+Voraussetzung für eine Teilnahme an der Folgeveranstaltung ist: VORAUSSETZUNG 
 ## FAQs
-
-Wir werden versuchen, spezifische Fragen im Laufe einer Woche zu beantworten.
-Häufig auftretende Fragen und Probleme werden wir im Bereich [FAQs]({{ site.baseurl }}{% link _unit00/unit00-04_faq.md %}) auf dieser Webseite aufbereiten und für alle TeilnehmerInnen zur Verfügung stellen.
-
-
-## Kurszeiten
-Mittwochs 10:15 bis 11:45 Uhr. Kursbeginn ist am <b>25.05.2022</b> in Präsenz 
-
-
-
-
+Wir werden versuchen, spezifische Fragen die uns direkt oder per Mail zu den Kursinhalten erreichen im Laufe einer Woche zu beantworten. Häufig auftretenden oder besonders Wichtige Fragen und Antworten warden wir für alle Teilnehmenden  in einer [FAQ-Sektion]({{ site.baseurl }}{% link _unit00/unit00-04_faq.md %}) hier auf der Seite Veröffentlichen.
+Viel Spaß in unserem Kurs an der Universität Marburg und beim anschließenden Ausprobieren in der Praxis!
 ## Team
 {% for author in site.data.authors %} 
   {% include author-profile.html %}
  <br /> 
 {% endfor %}
-
-
-Viel Spaß in unserem Kurs und beim Lernen an der Universität Marburg!
