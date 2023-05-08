@@ -24,13 +24,13 @@
 
 # Serve on GitHub
 url: https://geomoer.github.io
-baseurl: "forse"
+baseurl: "/forse/"
 
 
 ##### Title ###################################################################
-title: Außerschulische Lernorte
-name: &name "Außerschulische Lernorte" # &name is a YAML anchor which can be *referenced later
-#email: dirk.zeuss@uni-marburg.de
+title: ForSE
+name: &name "ForSE" # &name is a YAML anchor which can be *referenced later
+#email: bengel@uni-marburg.de
 description: >- # this means to ignore newlines until next item
   course course-materials geography remote-sensing marburg-open-educational-resource
   physical-geography environmental-science nature-conservation r
@@ -101,7 +101,7 @@ defaults:
       path: ""
       type: unit00
     values:
-      category: "How-to AsLo"
+      category: "Allgemeine Informationen"
       tags: "Unit 00"
       layout: single
       sidebar:
@@ -111,7 +111,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "Theoretische Grundlagen I"
+      category: "Didaktische Grundlagen"
       tags: "Unit 01"
       layout: single
       sidebar:
@@ -121,7 +121,7 @@ defaults:
       path: ""
       type: unit02
     values:
-      category: "Theoretische Grundlagen II"
+      category: "Beispiel: Ökosystem Wald"
       tags: "Unit 02"
       layout: single
       sidebar:
@@ -131,7 +131,7 @@ defaults:
       path: ""
       type: unit03
     values:
-      category: "Konzeptentwürfe I und II"
+      category: "Mobile digitale Medien"
       tags: "Unit 03"
       layout: single
       sidebar:
@@ -141,7 +141,7 @@ defaults:
       path: ""
       type: unit04
     values:
-      category: "Expert*innen-Review"
+      category: "Titel Abschnitt 04"
       tags: "Unit 04"
       layout: single
       sidebar:
@@ -169,7 +169,7 @@ plugins:
 # Handling Reading
 encoding: UTF-8
 
-repository: geomoer/moer-l3-aslo
+repository: geomoer/forse
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
