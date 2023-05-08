@@ -9,7 +9,7 @@ header:
   caption: 'Photo: P. Bengel'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-excerpt: Außerschulische Lernorte und Bildung für nachhaltige Entwicklung im Geographieunterricht
+excerpt: Außerschulische Lernorte mit mobilen digitalen Medien im Geographieunterricht
 feature_row_intro:
 - excerpt: Ein Fortbildungskurs der [Arbeitsgruppe Geographiedidaktik](https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik){:target="_blank"} und des [Zentrums für Lehrkräftebildung](https://www.uni-marburg.de/de/zfl){:target="_blank"}  der Philipps-Universität Marburg, gefördert durch die Stiftung [Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/){:target="_blank"}
 feature_row_ilos:
