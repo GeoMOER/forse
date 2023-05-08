@@ -59,27 +59,6 @@ Häufig auftretende Fragen und Probleme werden wir im Bereich [FAQs]({{ site.bas
 Mittwochs 10:15 bis 11:45 Uhr. Kursbeginn ist am <b>25.05.2022</b> in Präsenz 
 
 
-## Seminarplan
-
-|    | Termin | Thema | Inhalt  | 
-|----|--------|-------|---------|
-|**Theorieteil**  ||||
-| 01 | 25.05.2022  | Einführung                     | Modulverlauf, Termine, Gruppenbildung, Organisatorisches  | 
-| 02 | 01.06.2022  | Theoretische Grundlagen 1      | BNE, Forschendes Lernen, Exkursionsdidaktik | 
-| 03 | 08.06.2022  | Konzeptideen     | Erste Ideen für außerschulische Lernorte  |
-| 04 | 15.06.2022  | Theoretische Grundlagen 2      | (Projektwoche) | 
-| 05 | 22.06.2022  | Konzeptentwürfe     | Verteilung der Rahmenthemen / Entwurf eines AsLo-Konzepts  |
-| 06 | 29.06.2022  | Peer-Reviews     | ExpertInnenfeedback von anderen Seminargruppen zu den Entwürfen |
-| 07 | 06.07.2022  | Konzeptbewertungen mit Reviewpräsentationen       | Finale Ausarbeitung der Konzepte | 
-| 08 | 13.07.2022  | Finales Konzept      | Orga für Blocktermine  | 
-| **Praxisteil**  ||||
-| 09 | 25.07.2022 | Feldtermin I              | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| 10 | 26.07.2022 | Feldtermin II             | Durchführung außerschulischer Lerneinheiten im Marburg Open Forest | 
-| <s>11<s/> | <s>27.07.2022<s/> | <s>Feldtermin III<s/>            | <s>Durchführung außerschulischer Lerneinheiten im Marburg Open Forest<s/> | 
-| **Prüfung**  ||||
-| 12 | tbd  | Abschlussbesprechung	    | Organisatorisches zur Prüfungsleistung. Möglichkeit für Fragen. | 
-
-
 
 
 ## Team
