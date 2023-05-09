@@ -1,5 +1,5 @@
 ---
-title: Der Wald I
+title: Digitale Tools
 toc: true
 header:
   image: /assets/images/teaser/studis-am-teich Cropped.jpg
@@ -7,66 +7,23 @@ header:
   caption: "Photo: P. Bengel"
 ---
 
+Wir arbeiten in diesem Kurs mit Actionbound. Dazu hat uns nicht nur die Tatsache der Bekanntheit dieses Angebotes, sondern auch eine umfangreiche Recherche und gezielte Vergleiche zwischen einzelnen Anbietern bewogen. 
+<!--more--> 
+## Was ist Actionbound?
+[Actionbound GmbH](https://de.actionbound.com/){:target="_blank"} ist eine deutsche Firma die 2012 aus dem Geogcaching-Bereich mit pädagogischen Motiven für den außerschulischen Unterricht gegründet. Actionbound wird mittlerweile weltweit und auch weit über den Bildungsbereich hinaus von unterschiedlichsten Menschen eingesetzt.  Das Wichtigste:
+* Ein ***Bound*** ist eine geschlossene Einheit (Tour, Spiel, Rallye, Trail, Quiz, Escape-Game,…) von Anfang bis Ende
+•	Bounds werden im **Creator** (Web-Anwendung) erstellt, dafür benötigt man einen Account
+•	Bounds werden in der **App** (mobile Anwendung) geladen und gespielt (auch offline und  ohne Account)
+•	Die App, der Account für den Creator so wie die Erstellung **öffentlicher** Bounds ist kostenlos
+•	Für die Erstellung privater Bounds, kommerzielle Nutzung oder spezielle Zusatzfeatures werden entsprechenden Lizenzen angeboten 
+
+[Link](https://de.actionbound.com/choose){:target="_blank"}  zum Creator (mit Account)
+[Link](https://de.actionbound.com/download/){:target="_blank"} zur App (ohne Account) oder QR-Code scannen
+![ForSE-Folie51]({{site.baseurl}}/assets/images/ForSE-Folie51.png)
 
 
-Außerschulische Lernorte können unterschiedlichste Formen annehmen. 
-Sie eignen sich für rurale wie urbane Gebiete, wobei der räumliche und thematische Kontext 
-dabei je nach Rahmenthema, inhaltlichen Schwerpunkten und Lernzielen variiert.
+## Arbeiten mit Actionbound
+- In unserem Kurs werden wir ein kurzes Live-Tutorial im Bound-Creator mit unseren Teilnehmenden durchführen. Wer sich darüber hinaus für Einstiegshilfen und grundsätzliche Unterstützung zur Arbeit mit dem [Creator](https://de.actionbound.com/bound/actionboundeditor){:target="_blank"} oder der Schritt für Schritt Entwicklung [erster eigener Bounds](https://de.actionbound.com/stepbystep){:target="_blank"} interessiert, dem verlinken wir hier dazu entsprechende Angebote von Actionbound. Zusätzlich empfehlen wir den kostenlosen [Edu-Guide](https://de.actionbound.com/eduguide){:target="_blank"} von Actionbound und das didaktische Handbuch [„Expedition Stadt“](https://expedition-stadt.de/handbuch/){:target="_blank"} von Hiller et al.. 
 
-Für unseren Kurs bietet sich der Wald als Beispiel an, da er eine vielfältige Gestaltung außerschulischer Lernorte mit und ohne mdM zulässt
-und sich besonders gut zur Integration in geographische und BNE-orientierte Settings eignet. Zudem findet der zweite Kurs aus dieser Fortbildungsreihe auch in einem Wald, nämlich im Marburger Uni-Wald (Marburg Open Forest) statt.
-
-### Der Wald in Deutschland
-Es folgt eine Übersicht zu den wichtigsten Charakteristika unserer heimischen Wälder, die Ihnen als Anhaltspunkte und Inspiration für Ihre AsLo-Konzepte dienen sollen. <br>
-<br>
-![oekosys_aufbau]({{site.baseurl}}/assets/images/deutscher_wald.png)
-
-#### Entwicklung und Status
-Ab den 80er Jahren sorgte der kranke deutsche Wald auch international für Aufsehen. 
-Seitdem sprechen etwa auch die Franzosen von „Le Waldsterben“. 
-Nach Angaben der Bundesregierung haben Luftreinhalte-Maßnahmen die Wälder inzwischen messbar entlastet. 
-Dennoch überschreiten vor allem Stickstoffeinträge vielerorts kritische Werte. 
-Die Waldböden haben begonnen, sich zu erholen. 
-Maßnahmen zur Senkung von luftgetragenen Schadstoff- und Stickstoffeinträgen sind jedoch weiterhin erforderlich. 
-Sorgen bereiten allerdings die Sturmschäden im Winterhalbjahr 2017/2018, die langanhaltende Dürre der Sommer 2018 und 2019 sowie der davon profitierende Borkenkäferbefall – die daraus resultierenden aktuellen Waldschäden seien dramatisch und die Folgen würden den gesamten forstwirtschaftlichen Sektor stark belasten, betont die Bundesregierung.
-Aus einer ökologischen Perspektive kommt mit dem erhöhten Totholzanteil allerdings auch ein gewisses Potenzial für den Zuwachs der Biodiversität. Denn eine weit größere Zahl von Insekten, Pilzen und anderen Lebewesen profitiert von toten oder kranken Baumteilen, als es bei gesunden Bäumen der Fall wäre. 
-Gleichzeitig sind, als eine Folge der Corona-Pandemie, gerade die Wälder als Erholungsgebiete und Orte individueller Freizeitgestaltung so gefragt wie seit langem nicht mehr.
-#### Waldfläche
-Ein Drittel der Fläche Deutschlands ist von Wald bedeckt (rund 11,4 Mio. Hektar der Landesfläche). 
-Die Flächenveränderungen zwischen 2002 und 2012, dem letzten Erhebungszeitraum der Bundeswaldinventur, waren gering. 
-Einem Verlust von 58.000 Hektar stehen 108.000 Hektar neuer Wald gegenüber. Der deutsche Wald wächst also!
-#### Waldverteilung
-Während der flache Norden durch Landwirtschaft geprägt ist, sind die Mittelgebirge besonders waldreich. 
-Den meisten Wald (über 2,6 Mio. Hektar) hat Bayern. Prozentual zur Landesfläche besitzen Rheinland-Pfalz und Hessen die größten Waldanteile (42 %). 
-Es folgen das Saarland mit 40 % und Baden-Württemberg mit 38 %. In Bayern sind es 37 %.
-#### Klassische Baumarten
-Zwischen 2002 und 2012 ging der Anteil der Nadelbäume zurück, während Laubbäume zunahmen. 
-Die Fichte ist mit rund 25 % die häufigste Baumart – ihr Anteil ist rückläufig. 
-Platz 2 belegt die Kiefer mit etwa 22 %, gefolgt von der Buche mit circa 15 %. 
-Auf Rang 4: die Eiche mit 10 % der Waldfläche.
-#### Neue Baumarten
-Mit einem Flächenanteil von insgesamt knapp 5 % spielen eingeführte Baumarten eine untergeordnete Rolle. 
-Am weitesten verbreitet sind Douglasie (2 %), Japanlärche (0,8 %) und Roteiche (0,5 %).
-#### Altersstruktur
-Die Waldfläche mit alten Bäumen hat leicht zugenommen. 
-So ist das Durchschnittsalter im Jahr 2012 gegenüber 2002 um viereinhalb Jahre auf 77 Jahre gestiegen.
-#### Naturnähe
-Etwa 99 % der Wälder in Deutschland sind menschlich geprägt. 
-Das heißt im Gegenzug: Nur 1 % des deutschen Waldes ist naturbelassen. 
-36 % weist eine naturnahe Zusammensetzung der Baumarten auf. Die Zerschneidung von Waldgebieten beeinträchtigt die biologische Vielfalt. 
-Umweltverbände fordern, mehr Waldfläche zu Urwäldern zu machen.
-#### Der Wald als Klimaschützer
-Der Wald ist ein wichtiger Kohlenstoffspeicher. 
-In Holz und Böden sind aktuell rund 2,5 Mrd. Tonnen Kohlenstoff gebunden. 
-Zusätzlich entzieht der Wald der Atmosphäre durch das Wachstum der Bäume CO2.
-#### Der Wald als Luft- und Wasserfilter
-Wälder sind natürliche Klimaanlagen und Luftfilter. 
-Außerdem spielen sie eine besondere Rolle in den globalen und lokalen Wasserkreisläufen. 
-Der Waldboden speichert und reinigt Niederschlagswasser wie kaum ein anderes Ökosystem.
-#### Der Wald als Arbeitsplatz
-Mit 1,1 Millionen Arbeitsplätzen sind Forst- und Holzwirtschaft in Deutschland ein wichtiger Arbeitgeber, insbesondere in ländlichen Räumen.<br>
-
-Quelle: [https://www.nationalgeographic.de/umwelt/2018/03/10-fakten-zum-deutschen-wald](https://www.nationalgeographic.de/umwelt/2018/03/10-fakten-zum-deutschen-wald){:target="_blank"}
-
-
-
+*Hinweis:* Inspirationen und Vorlagen für eigene Konzepte und Ideen finden sich mit Hilfe der entsprechenden Schlagwortsuche auch in den sozialen Medien.
+{: .notice--info}
