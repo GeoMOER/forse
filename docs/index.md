@@ -1,5 +1,5 @@
 ---
-title: ForSE
+title: ForSE | Natur meets Technik
 layout: splash
 date: '2018-02-06 13:00:00 +0100'
 header:
@@ -9,9 +9,9 @@ header:
   caption: 'Photo: P. Bengel'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-excerpt: Natur meets Technik - Zum Einsatz mobiler digitaler Medien in der Gestaltung außerschulischer Lernkonzepte
+excerpt: Zum Einsatz mobiler digitaler Medien in der Gestaltung außerschulischer Lernkonzepte
 feature_row_intro:
-- excerpt: Die Fortbildung erfolgt im Rahmen des Projekts Forest, System and Education (ForSE) | Reale und digitale Lernwelten im Marburg Open Forest vernetzen. Die Veranstaltung wird in Kooperation zwischen der [Arbeitsgruppe Geographiedidaktik](https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik){:target="_blank"} und des [Zentrums für Lehrkräftebildung](https://www.uni-marburg.de/de/zfl){:target="_blank"}  der Philipps-Universität Marburg umgesetzt und von der die Stiftung [Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/){:target="_blank"} gefördert.
+- excerpt: Die Fortbildung erfolgt im Rahmen des Projekts Forest, System and Education (ForSE) | Reale und digitale Lernwelten im Marburg Open Forest vernetzen. 
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
@@ -24,6 +24,9 @@ feature_row_ilos:
 
 ## Allgemeines 
 Außerschulische Lernorte erlauben die unmittelbare Bearbeitung von geographischen Fachgegenständen im Realraum. In diesem Modul werden außerschulische Lernorte selbstständig gestaltet und unter Nutzung **mobiler digitaler Medien** didaktisch eingebunden. Ausgehend von fachlichen Phänomenen und Fragestellungen werden so außerschulische Lernumgebungen konstruiert, adressatengerecht aufgearbeitet und deren didaktisches Potential diskutiert.
+
+Die Veranstaltung wird in Kooperation zwischen der [Arbeitsgruppe Geographiedidaktik](https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik){:target="_blank"} und des [Zentrums für Lehrkräftebildung](https://www.uni-marburg.de/de/zfl){:target="_blank"}  der Philipps-Universität Marburg umgesetzt und von der die Stiftung [Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/){:target="_blank"} gefördert.
+
 ## Lernziele
 Am Ende des Kurses sollen Sie in der Lage sein
 * Argumente für und gegen den Einsatz mobiler digitaler Medien an außerschulischen Lernorten zu benennen und diese zu reflektieren
