@@ -37,12 +37,12 @@ Am Ende des Kurses sollen Sie in der Lage sein
 ### Kursmerkmale
 Der Kurs ist als einmalige Onlineveranstaltung von ca. 120 Minuten konzipiert, diese Webdokumentation dient dabei der individuellen Nachbereitung und dem ergänzenden Selbststudium.
 
-Ergänzungskurs<br>
+**Ergänzungskurs**<br>
 Zur Ergänzung ist ein praxisorienter Präsenztermin im Juli 2023 geplant, der dazu dienen soll konkrete Fallbeispiele zu erproben, bewerten und diskutieren.
 (Der konkrete Termin sowie ein Link zur Anmeldung wird in kürze bekannt gegeben.)
 {: .notice--info}
 
-## Weiterführende Links
+### Weiterführende Links
 * [Geographiedidaktik Marburg](https://www.uni-marburg.de/de/fb19/disciplines/geographiedidaktik){:target="_blank"}
 * [Zentrum für Lehrkräftebildung](https://www.uni-marburg.de/de/zfl){:target="_blank"}
 * [Stiftung Innovation Hochschullehre](https://stiftung-hochschullehre.de/){:target="_blank"}
