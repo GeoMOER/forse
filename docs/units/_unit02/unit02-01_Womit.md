@@ -35,6 +35,8 @@ Hier finden Sie eine Auswahl an Organisationen die, zur die Gestaltung eigener A
 * [ar-action.com](https://www.ar-action.de/){:target="_blank"}
 * [actionbound.com](https://de.actionbound.com/){:target="_blank"}
 
+**Tipp:**
+Eine Sammlung an Apps und digitalen Tools für den Geographieunterricht (nicht nur mobil und außerschulisch) findet man [hier](https://geohilfe.de/sammlung-apps-und-tools-fuer-den-geographieunterricht/){:target="_blank"}
 
 
 
