@@ -28,7 +28,7 @@ baseurl: "/forse/"
 
 
 ##### Title ###################################################################
-title: ForSE
+title: Natur meets Technik
 name: &name "ForSE" # &name is a YAML anchor which can be *referenced later
 #email: bengel@uni-marburg.de
 description: >- # this means to ignore newlines until next item
@@ -77,12 +77,6 @@ collections:
   unit02:
     output: true
     permalink: /:collection/:title.html
-  unit03:
-    output: true
-    permalink: /:collection/:title.html
-  unit04:
-    output: true
-    permalink: /:collection/:title.html
 
 # Default settings
 defaults:
@@ -101,7 +95,7 @@ defaults:
       path: ""
       type: unit00
     values:
-      category: "Allgemeine Informationen"
+      category: "Einführung"
       tags: "Unit 00"
       layout: single
       sidebar:
@@ -111,7 +105,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "Didaktische Grundlagen"
+      category: "Umsetzung"
       tags: "Unit 01"
       layout: single
       sidebar:
@@ -121,39 +115,11 @@ defaults:
       path: ""
       type: unit02
     values:
-      category: "Beispiel: Ökosystem Wald"
+      category: "Digitale Tools"
       tags: "Unit 02"
       layout: single
       sidebar:
         nav: "course_unit"
-  # unit03
-  - scope:
-      path: ""
-      type: unit03
-    values:
-      category: "Mobile digitale Medien"
-      tags: "Unit 03"
-      layout: single
-      sidebar:
-        nav: "course_unit"
-  # unit04
-  - scope:
-      path: ""
-      type: unit04
-    values:
-      category: "Titel Abschnitt 04"
-      tags: "Unit 04"
-      layout: single
-      sidebar:
-        nav: "course_unit"     
-  # pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      sidebar:
-        nav: "docs"
 
 # Plugins
 plugins:
