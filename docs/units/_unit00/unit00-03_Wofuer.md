@@ -1,5 +1,5 @@
 ---
-title: Einführung
+title: Wofür?
 header:
   image: "/assets/images/teaser/studis-holzstoss Cropped.jpg"
   caption: 'Photo: P. Bengel'
