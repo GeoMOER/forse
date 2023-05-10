@@ -1,5 +1,5 @@
 ---
-title: Digitale Tools
+title: Beispiel "Actionbound"
 toc: true
 header:
   image: /assets/images/teaser/studis-am-teich Cropped.jpg
