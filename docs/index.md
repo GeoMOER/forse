@@ -1,5 +1,5 @@
 ---
-title: ForSE | Natur meets Technik
+title: Natur meets Technik
 layout: splash
 date: '2018-02-06 13:00:00 +0100'
 header:
@@ -11,7 +11,7 @@ header:
   cta_url: "/units.html"
 excerpt: Zum Einsatz mobiler digitaler Medien in der Gestaltung außerschulischer Lernkonzepte
 feature_row_intro:
-- excerpt: Die Fortbildung erfolgt im Rahmen des Projekts Forest, System and Education (ForSE)- Reale und digitale Lernwelten im [Marburg Open Forest](https://www.uni-marburg.de/de/fb19/fachbereich/infrastruktur/mof){:target="_blank"}  vernetzen. 
+- excerpt: Die Fortbildung erfolgt im Rahmen des Projekts Forest, System and Education (**ForSE**) - Reale und digitale Lernwelten im [Marburg Open Forest](https://www.uni-marburg.de/de/fb19/fachbereich/infrastruktur/mof){:target="_blank"}  vernetzen. 
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
