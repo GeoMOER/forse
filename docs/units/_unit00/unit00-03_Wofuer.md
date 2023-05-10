@@ -11,13 +11,13 @@ Grundsätzlich lässt sich unterscheiden, ob die digitalten Hilfsmittel als Erg�
 ### Gezielte Anwendungszwecke
 Stellen meist eine Ergänzung zu einem spezifischen Zweck dar. Das Hautpkonzept und seine weiteren Bestandteile sind weitestgehend unabhängig von der entsprechenden Anwendung. 
 Beispiele für <b>gezielte Anwendungszwecke</b> wären...
-[ForSE-Folie15]({{site.baseurl}}/assets/images/ForSE-Folie15.png)
+![ForSE-Folie15]({{site.baseurl}}/assets/images/ForSE-Folie15.png)
 
 ### Digitale Gesamtkonzepte
 Basieren auf der Anwendung und dem entsprechenden Gerät für das sie entwickelt wurden. Die meisten Bestandteile des Konzepts sind digital und Teil des Gesamtkonzeptes.
 Beispiele für Format die als <b>digitalte Gesamtkonzepte</b> umgesetzt werden, wären...
 
-[ForSE-Folie17]({{site.baseurl}}/assets/images/ForSE-Folie17.png)
+![ForSE-Folie17]({{site.baseurl}}/assets/images/ForSE-Folie17.png)
 
 <!--
 Text Text Text
