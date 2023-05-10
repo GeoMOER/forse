@@ -1,5 +1,5 @@
 ---
-title: Umsetzung
+title: Wo?
 toc: true
 header:
   image: /assets/images/teaser/studis-im-mof (5) Cropped.jpg
@@ -9,7 +9,7 @@ header:
 
 Außerschulische Lernorte können unterschiedlichste Formen annehmen. 
 Sie eignen sich für rurale wie urbane Gebiete, wobei der räumliche und thematische Kontext 
-dabei je nach Rahmenthema, inhaltlichen Schwerpunkten und Lernzielen variiert.
+dabei je nach Rahmenthema, inhaltlichen Schwerpunkten und Lernzielen variiert. Auch wenn wir uns im Folgenden exemplarisch auf einen bestimmten Lernraum fokussieren, lassen sich die Inhalte dieses Kurses und die Anwendung mobilder digitaler Medien im Allgemeinen auf viele ander außerschulische Lehr-Lern-Settings übertragen.
 <!--more--> 
 ## Der Wald
 Für unseren Kurs bietet sich der Wald als Beispiel an, da er eine vielfältige Gestaltung außerschulischer Lernorte mit und ohne mobile digitale Medien zulässt. Wälder sind vielfältige Naturräume, die kostenfrei und zu jeder Jahreszeit eine Vielzahl an Themen aus der Geographie und darüber hinaus, für unterschiedliche Altersgruppen anbieten oder unterstützen können. 
