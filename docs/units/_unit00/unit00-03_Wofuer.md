@@ -11,6 +11,7 @@ Grunds채tzlich l채sst sich unterscheiden, ob die digitalten Hilfsmittel als Erg�
 ### Gezielte Anwendungszwecke
 Stellen meist eine Erg채nzung zu einem spezifischen Zweck dar. Das Hautpkonzept und seine weiteren Bestandteile sind weitestgehend unabh채ngig von der entsprechenden Anwendung. 
 Beispiele f체r <b>gezielte Anwendungszwecke</b> w채ren...
+
 ![ForSE-Folie15]({{site.baseurl}}/assets/images/ForSE-Folie15.png)
 
 ### Digitale Gesamtkonzepte
