@@ -1,5 +1,5 @@
 ---
-title: Womit?
+title: Tools (Womit?)
 toc: false
 header:
   image: /assets/images/teaser/studis-am-teich Cropped.jpg
