@@ -1,5 +1,5 @@
 ---
-title: Beispiel "Actionbound"
+title: Actionbound (Beispiel)
 toc: true
 header:
   image: /assets/images/teaser/studis-am-teich Cropped.jpg
