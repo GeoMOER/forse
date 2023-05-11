@@ -1,5 +1,5 @@
 ---
-title: Wie?
+title: Didaktische Ansätze (Wie?)
 toc: false
 header:
   image: /assets/images/teaser/studis-im-mof (5) Cropped.jpg
