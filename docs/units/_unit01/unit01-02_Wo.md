@@ -1,5 +1,5 @@
 ---
-title: Wo?
+title: Raumbeispiel (Wo?)
 toc: true
 header:
   image: /assets/images/teaser/studis-im-mof (5) Cropped.jpg
