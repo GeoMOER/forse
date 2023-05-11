@@ -111,7 +111,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "Umsetzung"
+      category: "Durchführung"
       tags: "Unit 01"
       layout: single
       sidebar:
