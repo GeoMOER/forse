@@ -6,7 +6,7 @@ header:
   caption: 'Photo: P. Bengel'
 ---
 
-Zur Einführung in unseren Onlinekurs widmen wir uns zuerst der Frage nach dem „Warum?“. Warum sollen mobile digitale Medien überhaupt in der (außerschulischen) Bildung eingesetzt werden? Es soll darum gehen, sich kritisch mit den digitalen Hilfsmitteln und ihren Vor- und Nachteilen zu befassen. Schließlich folg das „Wofür?“. Welche Bereiche und Anwendungszwecke gibt es überhaupt in denen mobile digitale Medien zu Bildungszwecken eingesetzt werden könnten und wann ist es tatsächlich sinnvoll diese Option zu nutzen? 
+Zur Einführung in unseren Onlinekurs widmen wir uns zuerst der Frage nach der Relevanz. Warum sollen mobile digitale Medien überhaupt in der (außerschulischen) Bildung eingesetzt werden? Es soll darum gehen, sich kritisch mit den digitalen Hilfsmitteln und ihren Vor- und Nachteilen zu befassen. Schließlich folg die Frage, welche Bereiche und Anwendungszwecke gibt es überhaupt in denen mobile digitale Medien zu Bildungszwecken eingesetzt werden könnten und wann ist es tatsächlich sinnvoll diese Option zu nutzen? 
 <!--more-->
 
 ### Argumente für den Einsatz mobiler digitaler Medien
