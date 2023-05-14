@@ -38,8 +38,8 @@ Am Ende des Kurses sollen Sie in der Lage sein
 Der Kurs ist als einmalige Onlineveranstaltung von ca. 120 Minuten konzipiert, diese Webdokumentation dient dabei der individuellen Nachbereitung und dem ergänzenden Selbststudium.
 
 **Ergänzungskurs**<br>
-Zur Ergänzung ist ein praxisorienter Präsenztermin im Juli 2023 geplant, der dazu dienen soll konkrete Fallbeispiele kenenzulernen, bewerten und gemeinsam zu diskutieren.
-(Der konkrete Termin sowie ein Link zur Anmeldung wird in kürze bekannt gegeben.)
+Zur Ergänzung ist ein praxisorienter Präsenztermin im Juli 2023 geplant. Dieser soll dazu dienen, konkrete Fallbeispiele kennenzulernen, zu analysieren und gemeinsam zu diskutieren.
+(Der konkrete Termin sowie ein Link zur Anmeldung werden in kürze bekannt gegeben.)
 {: .notice--info}
 
 ### Weiterführende Links
