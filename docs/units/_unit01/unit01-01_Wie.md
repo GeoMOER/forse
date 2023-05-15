@@ -8,7 +8,7 @@ header:
 ---
 
 
-In diesem Teil geht es um das „Wie?“. Damit sind zum einen konkrete Ansätze aus der Didaktik gemeint, die sich für den Einsatz mobiler digitaler Medien eignen, bzw. sich mit ihnen kombinieren lassen. Um dann die Theorie mit konkretem Anwendungsbezug zu untermauern, nehmen wir hier exemplarisch den Wald und stellen dazu auch ein eigenes Konzept vor das am Fachbereich Geographie der Philipps-Universität zu diesem Zweck entwickelt wurde. 
+In diesem Teil geht es um die Umsetzung. Damit sind zum einen konkrete Ansätze aus der Didaktik gemeint, die sich für den Einsatz mobiler digitaler Medien eignen, bzw. sich mit ihnen kombinieren lassen. Um dann die Theorie mit konkretem Anwendungsbezug zu untermauern, nehmen wir hier exemplarisch den Wald und stellen dazu auch ein eigenes Konzept vor das am Fachbereich Geographie der Philipps-Universität zu diesem Zweck entwickelt wurde. 
 
 <!--more-->
 
