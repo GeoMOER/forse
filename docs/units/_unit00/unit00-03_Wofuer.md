@@ -1,5 +1,5 @@
 ---
-title: Anwendungsbereiche (Wofür?)
+title: Anwendungsbereiche
 header:
   image: "/assets/images/teaser/studis-holzstoss Cropped.jpg"
   caption: 'Photo: P. Bengel'
