@@ -1,5 +1,5 @@
 ---
-title: Relevanz (Warum?)
+title: Relevanz
 toc: true
 header:
   image: "/assets/images/teaser/natur-digital.jpg"
