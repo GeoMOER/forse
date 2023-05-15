@@ -36,6 +36,7 @@ Am Ende des Kurses sollen Sie in der Lage sein
 
 ### Kursmerkmale
 Der Kurs ist als einmalige Onlineveranstaltung von ca. 120 Minuten konzipiert, diese Webdokumentation dient dabei der individuellen Nachbereitung und dem ergänzenden Selbststudium.
+Im Rahmen des ForSE-Projekts wird für die Lehramtsausbildung im Fach Geographie zeitgleich ein [neues Modul](https://geomoer.github.io/moer-l3-aslo/){:target="_blank"} zur Gestaltung außerschulischer Lernorte mit mobilen digitalen Medien eingeführt. Da es ein Ziel des Projekts ist, die Synergien aus den beiden Aus- und Weiterbildungs-Formaten zu identifizieren und auszuschöpfen, findet dazu ein abschließender Praxistermin (siehe unten) zusammen mit den Lehramts-Studierenden im Marburg Open Forest statt.
 
 **Ergänzungskurs**<br>
 Zur Ergänzung ist ein praxisorienter Präsenztermin im Juli 2023 geplant. Dieser soll dazu dienen, konkrete Fallbeispiele kennenzulernen, zu analysieren und gemeinsam zu diskutieren.
