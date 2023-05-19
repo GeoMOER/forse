@@ -39,7 +39,7 @@ Schließlich wird der betrachtete Raum vergrößert und mit der biotischen Umwel
 #### Künstliche Intelligenz & maschinelles Lernen
 Begriffe wie maschinelles Lernen und künstliche Intelligenz (KI) mögen erst unpassend wirken, wenn es um Umweltmonitoring und Artenschutz gehen soll, sind aber in der wissenschaftlichen Praxis bereits tief verankert. So werden von der automatisierten Auswertung großer Datenmengen bspw. von Kammerfallen mittels Objekterkennung, oder intelligenter Vogelstimmenerkennung, bis zur Datenassimilation viele Arbeitsabläufe unterstütz oder völlig automatisiert. Frei von dem konkrete Raumbezug, aber weiterhin stark anwendungsorientiert, wird hier eine weitere fachliche und vor allem methodische Perspektive auf das Thema eröffnet.
 ![Kamerafalle]({{site.baseurl}}/assets/images/Kamerafalle.jpg)
-*Intelligente Objekterkennung bei Aufnahmen von Kamerafallen (Quelle: Natur4.0)*<br>
+*Intelligente Objekterkennung bei Aufnahmen von Kamerafallen* (Quelle: Natur4.0)<br>
 #### Fernerkundung
 Eine weitere Methode ist die Fernerkundung, die mithilfe von Satelliten, Flugzeug oder Drohnen zwei- oder dreidimensionale Luftaufnahmen des Waldes liefert. Bei längerer und wiederholter Beobachtung kommt hier ggf. die Zeit als eine vierte Dimension hinzu und lässt die Untersuchung von Entwicklungsprozessen im Untersuchungsgebiet zu. Diese wissenschaftliche Untersuchungsmethode findet ihren Anwendungsbezug bspw. im Strukturmonitoring des Ökosystems.
 ![Drohne]({{site.baseurl}}/assets/images/Drohne.PNG)
