@@ -12,10 +12,10 @@ Wir arbeiten in diesem Kurs mit Actionbound. Dazu hat uns nicht nur die Tatsache
 ## Was ist Actionbound?
 [Actionbound GmbH](https://de.actionbound.com/){:target="_blank"} ist eine deutsche Firma die 2012 aus dem Geocaching-Bereich mit pädagogischen Motiven für den außerschulischen Unterricht gegründet wurde. Actionbound wird mittlerweile weltweit und auch weit über den Bildungsbereich hinaus, von unterschiedlichsten Akteuren eingesetzt.  Das Wichtigste:
 * Ein ***Bound*** ist eine geschlossene Einheit (Tour, Spiel, Rallye, Trail, Quiz, Escape-Game,…) von Anfang bis Ende
-•	Bounds werden im **Creator** (Web-Anwendung) erstellt, dafür benötigt man einen Account
-•	Bounds werden in der **App** (mobile Anwendung) geladen und gespielt (auch offline und  ohne Account)
-•	Die App, der Account für den Creator, sowie die Erstellung **öffentlicher** Bounds ist kostenlos
-•	Für die Erstellung privater Bounds, kommerzielle Nutzung oder spezielle Zusatzfeatures werden entsprechenden Lizenzen angeboten 
+* Bounds werden im **Creator** (Web-Anwendung) erstellt, dafür benötigt man einen Account
+* Bounds werden in der **App** (mobile Anwendung) geladen und gespielt (auch offline und  ohne Account)
+* Die App, der Account für den Creator, sowie die Erstellung **öffentlicher** Bounds ist kostenlos
+* Für die Erstellung privater Bounds, kommerzielle Nutzung oder spezielle Zusatzfeatures werden entsprechenden Lizenzen angeboten 
 
 [Link](https://de.actionbound.com/choose){:target="_blank"}  zum Creator (mit Account)
 [Link](https://de.actionbound.com/download/){:target="_blank"} zur App (ohne Account) oder QR-Code scannen
