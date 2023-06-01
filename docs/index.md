@@ -34,6 +34,10 @@ Am Ende des Kurses sollen Sie in der Lage sein
 * den Mehrwert von mobilen digitalen Medien in konkreten Anwendungssituationen zu identifizieren und diese sinnvoll zu gestalten,
 * konkrete digitale Hilfsmittel (Apps und Webanwendungen) auf Grundlage Ihrer erworbenen Kenntnisse, passend für den entsprechenden Einsatz auszuwählen und anzuwenden 
 
+### Theoretische Einführung (Videovortag)
+{% include video id="PaFtmPEEXJ4" provider="youtube" %}
+In dem Videovortrag geht es um die grundsätzliche Relevanz, typische Anwendungsbereiche, nützliche didaktische Ansätze und praktische Auswahlkriterien für die Bildungsarbeit mit mobilen digitalen Medien. Weitere Informationen dazu erhalten Sie in unseren Präsenzveranstaltungen und im Kursbereich dieser Website.
+
 ### Kursmerkmale
 Der Kurs ist als einmalige Onlineveranstaltung von ca. 120 Minuten konzipiert, diese Webdokumentation dient dabei der individuellen Nachbereitung und dem ergänzenden Selbststudium.
 Im Rahmen des ForSE-Projekts wird für die Lehramtsausbildung im Fach Geographie zeitgleich ein [neues Modul](https://geomoer.github.io/moer-l3-aslo/){:target="_blank"} zur Gestaltung außerschulischer Lernorte mit mobilen digitalen Medien eingeführt. Da es ein Ziel des Projekts ist, die Synergien aus den beiden Aus- und Weiterbildungs-Formaten zu identifizieren und auszuschöpfen, findet dazu ein abschließender Praxistermin (siehe unten) zusammen mit den Lehramts-Studierenden im Marburg Open Forest statt.
